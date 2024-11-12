@@ -1,0 +1,14 @@
+d:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+d:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.AssemblyInfoInputs.cache
+d:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.AssemblyInfo.cs
+d:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\bin\Debug\net8.0\AccessingTheClassMembers.exe
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\bin\Debug\net8.0\AccessingTheClassMembers.deps.json
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\bin\Debug\net8.0\AccessingTheClassMembers.runtimeconfig.json
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\bin\Debug\net8.0\AccessingTheClassMembers.dll
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\bin\Debug\net8.0\AccessingTheClassMembers.pdb
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.dll
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\refint\AccessingTheClassMembers.dll
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.pdb
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\AccessingTheClassMembers.genruntimeconfig.cache
+D:\Devs\asp.net core\EducativeIo\AccessingTheClassMembers\obj\Debug\net8.0\ref\AccessingTheClassMembers.dll
