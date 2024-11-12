@@ -1,0 +1,14 @@
+D:\Devs\asp.net core\EducativeIo\Fields\bin\Debug\net8.0\Fields.exe
+D:\Devs\asp.net core\EducativeIo\Fields\bin\Debug\net8.0\Fields.deps.json
+D:\Devs\asp.net core\EducativeIo\Fields\bin\Debug\net8.0\Fields.runtimeconfig.json
+D:\Devs\asp.net core\EducativeIo\Fields\bin\Debug\net8.0\Fields.dll
+D:\Devs\asp.net core\EducativeIo\Fields\bin\Debug\net8.0\Fields.pdb
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.AssemblyInfo.cs
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.dll
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\refint\Fields.dll
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.pdb
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\Fields.genruntimeconfig.cache
+D:\Devs\asp.net core\EducativeIo\Fields\obj\Debug\net8.0\ref\Fields.dll
