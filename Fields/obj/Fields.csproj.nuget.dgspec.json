@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Devs\\asp.net core\\EducativeIo\\Fields\\Fields.csproj": {}
+    "D:\\Devs\\asp.net core\\oopcsharp\\Fields\\Fields.csproj": {}
   },
   "projects": {
-    "D:\\Devs\\asp.net core\\EducativeIo\\Fields\\Fields.csproj": {
+    "D:\\Devs\\asp.net core\\oopcsharp\\Fields\\Fields.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devs\\asp.net core\\EducativeIo\\Fields\\Fields.csproj",
+        "projectUniqueName": "D:\\Devs\\asp.net core\\oopcsharp\\Fields\\Fields.csproj",
         "projectName": "Fields",
-        "projectPath": "D:\\Devs\\asp.net core\\EducativeIo\\Fields\\Fields.csproj",
+        "projectPath": "D:\\Devs\\asp.net core\\oopcsharp\\Fields\\Fields.csproj",
         "packagesPath": "C:\\Users\\RAMAHERY\\.nuget\\packages\\",
-        "outputPath": "D:\\Devs\\asp.net core\\EducativeIo\\Fields\\obj\\",
+        "outputPath": "D:\\Devs\\asp.net core\\oopcsharp\\Fields\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAMAHERY\\AppData\\Roaming\\NuGet\\NuGet.Config",

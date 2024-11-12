@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Devs\\asp.net core\\EducativeIo\\Methods\\Methods.csproj": {}
+    "D:\\Devs\\asp.net core\\oopcsharp\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "D:\\Devs\\asp.net core\\EducativeIo\\Methods\\Methods.csproj": {
+    "D:\\Devs\\asp.net core\\oopcsharp\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devs\\asp.net core\\EducativeIo\\Methods\\Methods.csproj",
+        "projectUniqueName": "D:\\Devs\\asp.net core\\oopcsharp\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "D:\\Devs\\asp.net core\\EducativeIo\\Methods\\Methods.csproj",
+        "projectPath": "D:\\Devs\\asp.net core\\oopcsharp\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\RAMAHERY\\.nuget\\packages\\",
-        "outputPath": "D:\\Devs\\asp.net core\\EducativeIo\\Methods\\obj\\",
+        "outputPath": "D:\\Devs\\asp.net core\\oopcsharp\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAMAHERY\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Devs\\asp.net core\\EducativeIo\\AccessModifiers\\AccessModifiers.csproj",
+      "projectUniqueName": "D:\\Devs\\asp.net core\\oopcsharp\\AccessModifiers\\AccessModifiers.csproj",
       "projectName": "AccessModifiers",
-      "projectPath": "D:\\Devs\\asp.net core\\EducativeIo\\AccessModifiers\\AccessModifiers.csproj",
+      "projectPath": "D:\\Devs\\asp.net core\\oopcsharp\\AccessModifiers\\AccessModifiers.csproj",
       "packagesPath": "C:\\Users\\RAMAHERY\\.nuget\\packages\\",
-      "outputPath": "D:\\Devs\\asp.net core\\EducativeIo\\AccessModifiers\\obj\\",
+      "outputPath": "D:\\Devs\\asp.net core\\oopcsharp\\AccessModifiers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RAMAHERY\\AppData\\Roaming\\NuGet\\NuGet.Config",
