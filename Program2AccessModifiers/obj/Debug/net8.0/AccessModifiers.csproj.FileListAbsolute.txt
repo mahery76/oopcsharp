@@ -1,0 +1,5 @@
+D:\Devs\asp.net core\oopcsharp\Program2AccessModifiers\obj\Debug\net8.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program2AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program2AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program2AccessModifiers\obj\Debug\net8.0\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program2AccessModifiers\obj\Debug\net8.0\AccessModifiers.sourcelink.json

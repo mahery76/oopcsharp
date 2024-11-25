@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Devs\\asp.net core\\oopcsharp\\AccessingTheClassMembers\\AccessingTheClassMembers.csproj": {}
+    "D:\\Devs\\asp.net core\\oopcsharp\\Program1AccessingTheClassMembers\\AccessingTheClassMembers.csproj": {}
   },
   "projects": {
-    "D:\\Devs\\asp.net core\\oopcsharp\\AccessingTheClassMembers\\AccessingTheClassMembers.csproj": {
+    "D:\\Devs\\asp.net core\\oopcsharp\\Program1AccessingTheClassMembers\\AccessingTheClassMembers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devs\\asp.net core\\oopcsharp\\AccessingTheClassMembers\\AccessingTheClassMembers.csproj",
+        "projectUniqueName": "D:\\Devs\\asp.net core\\oopcsharp\\Program1AccessingTheClassMembers\\AccessingTheClassMembers.csproj",
         "projectName": "AccessingTheClassMembers",
-        "projectPath": "D:\\Devs\\asp.net core\\oopcsharp\\AccessingTheClassMembers\\AccessingTheClassMembers.csproj",
+        "projectPath": "D:\\Devs\\asp.net core\\oopcsharp\\Program1AccessingTheClassMembers\\AccessingTheClassMembers.csproj",
         "packagesPath": "C:\\Users\\RAMAHERY\\.nuget\\packages\\",
-        "outputPath": "D:\\Devs\\asp.net core\\oopcsharp\\AccessingTheClassMembers\\obj\\",
+        "outputPath": "D:\\Devs\\asp.net core\\oopcsharp\\Program1AccessingTheClassMembers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RAMAHERY\\AppData\\Roaming\\NuGet\\NuGet.Config",

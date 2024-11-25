@@ -1,7 +1,6 @@
 ﻿using System;
-using EducativeIo.AccessModifiers;
 
-namespace AccessingTheClassMembers;
+namespace Program2AccessModifiers;
 
 public class Program
 {
@@ -9,6 +8,5 @@ public class Program
     {
         var LaptopMachine = new LaptopMachine();
         Console.WriteLine("the storage of the machine is: {0}", LaptopMachine._storage);
-
     }
 }

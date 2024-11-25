@@ -1,6 +1,6 @@
 using System;
 
-namespace EducativeIo.AccessingTheClassMembers;
+namespace Program1AccessingTheClassMembers;
 
 public class LaptopMachine
 {

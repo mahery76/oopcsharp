@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\bin\Debug\net8.0\Program5StaticAndNonStaticMethods.exe
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\bin\Debug\net8.0\Program5StaticAndNonStaticMethods.deps.json
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\bin\Debug\net8.0\Program5StaticAndNonStaticMethods.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\bin\Debug\net8.0\Program5StaticAndNonStaticMethods.dll
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\bin\Debug\net8.0\Program5StaticAndNonStaticMethods.pdb
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.dll
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\refint\Program5StaticAndNonStaticMethods.dll
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.pdb
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\Program5StaticAndNonStaticMethods.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program5StaticAndNonStaticMethods\obj\Debug\net8.0\ref\Program5StaticAndNonStaticMethods.dll

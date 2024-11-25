@@ -1,6 +1,6 @@
 using System;
 
-namespace EducativeIo.AccessModifiers;
+namespace Program2AccessModifiers;
 
 public class LaptopMachine
 {

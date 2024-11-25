@@ -1,5 +1,4 @@
 using System;
-using EducativeIo.AccessingTheClassMembers;
 
 namespace Program1AccessingTheClassMembers;
 
