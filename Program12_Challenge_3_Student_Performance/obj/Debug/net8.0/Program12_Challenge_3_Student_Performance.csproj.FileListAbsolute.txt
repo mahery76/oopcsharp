@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\bin\Debug\net8.0\Program12_Challenge_3_Student_Performance.exe
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\bin\Debug\net8.0\Program12_Challenge_3_Student_Performance.deps.json
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\bin\Debug\net8.0\Program12_Challenge_3_Student_Performance.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\bin\Debug\net8.0\Program12_Challenge_3_Student_Performance.dll
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\bin\Debug\net8.0\Program12_Challenge_3_Student_Performance.pdb
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.dll
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\refint\Program12_Challenge_3_Student_Performance.dll
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.pdb
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\Program12_Challenge_3_Student_Performance.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program12_Challenge_3_Student_Performance\obj\Debug\net8.0\ref\Program12_Challenge_3_Student_Performance.dll

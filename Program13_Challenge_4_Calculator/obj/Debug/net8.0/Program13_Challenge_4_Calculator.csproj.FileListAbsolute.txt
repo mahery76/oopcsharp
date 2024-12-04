@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\bin\Debug\net8.0\Program13_Challenge_4_Calculator.exe
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\bin\Debug\net8.0\Program13_Challenge_4_Calculator.deps.json
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\bin\Debug\net8.0\Program13_Challenge_4_Calculator.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\bin\Debug\net8.0\Program13_Challenge_4_Calculator.dll
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\bin\Debug\net8.0\Program13_Challenge_4_Calculator.pdb
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.dll
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\refint\Program13_Challenge_4_Calculator.dll
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.pdb
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\Program13_Challenge_4_Calculator.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program13_Challenge_4_Calculator\obj\Debug\net8.0\ref\Program13_Challenge_4_Calculator.dll

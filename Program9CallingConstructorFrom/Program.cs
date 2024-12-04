@@ -12,7 +12,7 @@
         this._dataCollected = 0;
     }
 
-    // A parameterized constructor implemented
+    // A parametrized constructor implemented
     public Laptop(bool onOff, int count){
         // use of this keyword on the left side of = operator
         this._onOff = onOff;
