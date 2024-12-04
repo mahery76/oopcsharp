@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\bin\Debug\net8.0\Program10_Challenge_1_SumOfSquares.exe
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\bin\Debug\net8.0\Program10_Challenge_1_SumOfSquares.deps.json
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\bin\Debug\net8.0\Program10_Challenge_1_SumOfSquares.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\bin\Debug\net8.0\Program10_Challenge_1_SumOfSquares.dll
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\bin\Debug\net8.0\Program10_Challenge_1_SumOfSquares.pdb
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.dll
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\refint\Program10_Challenge_1_SumOfSquares.dll
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.pdb
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\Program10_Challenge_1_SumOfSquares.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program10_Challenge_1_SumOfSquares\obj\Debug\net8.0\ref\Program10_Challenge_1_SumOfSquares.dll

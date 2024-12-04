@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\bin\Debug\net8.0\Program9CallingConstructorFrom.exe
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\bin\Debug\net8.0\Program9CallingConstructorFrom.deps.json
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\bin\Debug\net8.0\Program9CallingConstructorFrom.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\bin\Debug\net8.0\Program9CallingConstructorFrom.dll
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\bin\Debug\net8.0\Program9CallingConstructorFrom.pdb
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.dll
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\refint\Program9CallingConstructorFrom.dll
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.pdb
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\Program9CallingConstructorFrom.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program9CallingConstructorFrom\obj\Debug\net8.0\ref\Program9CallingConstructorFrom.dll

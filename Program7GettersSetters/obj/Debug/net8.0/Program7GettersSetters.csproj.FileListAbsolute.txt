@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\bin\Debug\net8.0\Program7GettersSetters.exe
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\bin\Debug\net8.0\Program7GettersSetters.deps.json
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\bin\Debug\net8.0\Program7GettersSetters.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\bin\Debug\net8.0\Program7GettersSetters.dll
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\bin\Debug\net8.0\Program7GettersSetters.pdb
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.dll
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\refint\Program7GettersSetters.dll
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.pdb
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\Program7GettersSetters.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program7GettersSetters\obj\Debug\net8.0\ref\Program7GettersSetters.dll

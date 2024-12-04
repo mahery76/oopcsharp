@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\bin\Debug\net8.0\Program8Constructor.exe
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\bin\Debug\net8.0\Program8Constructor.deps.json
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\bin\Debug\net8.0\Program8Constructor.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\bin\Debug\net8.0\Program8Constructor.dll
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\bin\Debug\net8.0\Program8Constructor.pdb
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.dll
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\refint\Program8Constructor.dll
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.pdb
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\Program8Constructor.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program8Constructor\obj\Debug\net8.0\ref\Program8Constructor.dll

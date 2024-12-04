@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program6This\bin\Debug\net8.0\Program6This.exe
+D:\Devs\asp.net core\oopcsharp\Program6This\bin\Debug\net8.0\Program6This.deps.json
+D:\Devs\asp.net core\oopcsharp\Program6This\bin\Debug\net8.0\Program6This.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program6This\bin\Debug\net8.0\Program6This.dll
+D:\Devs\asp.net core\oopcsharp\Program6This\bin\Debug\net8.0\Program6This.pdb
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.dll
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\refint\Program6This.dll
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.pdb
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\Program6This.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program6This\obj\Debug\net8.0\ref\Program6This.dll
