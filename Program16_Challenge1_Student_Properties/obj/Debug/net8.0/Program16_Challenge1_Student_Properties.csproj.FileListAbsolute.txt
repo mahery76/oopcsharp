@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\bin\Debug\net8.0\Program16_Challenge1_Student_Properties.exe
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\bin\Debug\net8.0\Program16_Challenge1_Student_Properties.deps.json
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\bin\Debug\net8.0\Program16_Challenge1_Student_Properties.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\bin\Debug\net8.0\Program16_Challenge1_Student_Properties.dll
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\bin\Debug\net8.0\Program16_Challenge1_Student_Properties.pdb
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.dll
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\refint\Program16_Challenge1_Student_Properties.dll
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.pdb
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\Program16_Challenge1_Student_Properties.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program16_Challenge1_Student_Properties\obj\Debug\net8.0\ref\Program16_Challenge1_Student_Properties.dll

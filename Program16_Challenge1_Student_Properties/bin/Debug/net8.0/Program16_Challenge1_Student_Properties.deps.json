@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Program16_Challenge1_Student_Properties/1.0.0": {
+        "runtime": {
+          "Program16_Challenge1_Student_Properties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program16_Challenge1_Student_Properties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
