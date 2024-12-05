@@ -1,0 +1,5 @@
+D:\Devs\asp.net core\oopcsharp\Program14_Encapsulation\obj\Debug\net8.0\Program14_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program14_Encapsulation\obj\Debug\net8.0\Program14_Encapsulation.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program14_Encapsulation\obj\Debug\net8.0\Program14_Encapsulation.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program14_Encapsulation\obj\Debug\net8.0\Program14_Encapsulation.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program14_Encapsulation\obj\Debug\net8.0\Program14_Encapsulation.sourcelink.json

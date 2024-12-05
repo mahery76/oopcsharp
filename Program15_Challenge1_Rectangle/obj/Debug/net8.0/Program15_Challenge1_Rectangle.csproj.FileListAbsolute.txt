@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\bin\Debug\net8.0\Program15_Challenge1_Rectangle.exe
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\bin\Debug\net8.0\Program15_Challenge1_Rectangle.deps.json
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\bin\Debug\net8.0\Program15_Challenge1_Rectangle.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\bin\Debug\net8.0\Program15_Challenge1_Rectangle.dll
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\bin\Debug\net8.0\Program15_Challenge1_Rectangle.pdb
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.dll
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\refint\Program15_Challenge1_Rectangle.dll
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.pdb
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\Program15_Challenge1_Rectangle.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program15_Challenge1_Rectangle\obj\Debug\net8.0\ref\Program15_Challenge1_Rectangle.dll
