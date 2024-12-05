@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\bin\Debug\net8.0\Program17_Inheritance.exe
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\bin\Debug\net8.0\Program17_Inheritance.deps.json
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\bin\Debug\net8.0\Program17_Inheritance.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\bin\Debug\net8.0\Program17_Inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\bin\Debug\net8.0\Program17_Inheritance.pdb
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\refint\Program17_Inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.pdb
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\Program17_Inheritance.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program17_Inheritance\obj\Debug\net8.0\ref\Program17_Inheritance.dll
