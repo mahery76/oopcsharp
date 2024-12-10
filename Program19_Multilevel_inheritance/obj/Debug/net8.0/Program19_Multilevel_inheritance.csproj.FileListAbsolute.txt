@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\bin\Debug\net8.0\Program19_Multilevel_inheritance.exe
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\bin\Debug\net8.0\Program19_Multilevel_inheritance.deps.json
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\bin\Debug\net8.0\Program19_Multilevel_inheritance.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\bin\Debug\net8.0\Program19_Multilevel_inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\bin\Debug\net8.0\Program19_Multilevel_inheritance.pdb
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\refint\Program19_Multilevel_inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.pdb
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\Program19_Multilevel_inheritance.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program19_Multilevel_inheritance\obj\Debug\net8.0\ref\Program19_Multilevel_inheritance.dll

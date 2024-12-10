@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\bin\Debug\net8.0\Program20_Hierarchical_inheritance.exe
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\bin\Debug\net8.0\Program20_Hierarchical_inheritance.deps.json
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\bin\Debug\net8.0\Program20_Hierarchical_inheritance.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\bin\Debug\net8.0\Program20_Hierarchical_inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\bin\Debug\net8.0\Program20_Hierarchical_inheritance.pdb
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\refint\Program20_Hierarchical_inheritance.dll
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.pdb
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\Program20_Hierarchical_inheritance.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program20_Hierarchical_inheritance\obj\Debug\net8.0\ref\Program20_Hierarchical_inheritance.dll

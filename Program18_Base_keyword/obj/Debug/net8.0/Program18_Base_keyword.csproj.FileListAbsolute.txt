@@ -1,0 +1,15 @@
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\bin\Debug\net8.0\Program18_Base_keyword.exe
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\bin\Debug\net8.0\Program18_Base_keyword.deps.json
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\bin\Debug\net8.0\Program18_Base_keyword.runtimeconfig.json
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\bin\Debug\net8.0\Program18_Base_keyword.dll
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\bin\Debug\net8.0\Program18_Base_keyword.pdb
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.AssemblyInfoInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.AssemblyInfo.cs
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.csproj.CoreCompileInputs.cache
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.sourcelink.json
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.dll
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\refint\Program18_Base_keyword.dll
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.pdb
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\Program18_Base_keyword.genruntimeconfig.cache
+D:\Devs\asp.net core\oopcsharp\Program18_Base_keyword\obj\Debug\net8.0\ref\Program18_Base_keyword.dll

@@ -30,7 +30,6 @@ class Beverage: Product{
     {
         this._litres = litres;
         this._flavor = flavor;
-
     }
     public void BeverageDetails(){
         PrintDetails();
