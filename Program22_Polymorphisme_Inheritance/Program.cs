@@ -87,3 +87,27 @@ class Demo
     }
 }
 
+// product(name, purchasePrice)
+// - _name
+// - _purchasePrice
+
+// - GetpurchasePrice  = () => return _purchasePrice
+// - GetPrice = () => return 0
+// - PrintDetails = () => output("_name")
+
+
+// Beverage:Product (name, price)
+// - _refCost = GetpurchasePrice * 0.10
+// - _profit = GetpurchasePrice * 0.15
+
+// - GetPrice = () => return (GetpurchasePrice + _refCost + _profit)
+// - PrintDetails = () => output("getPrice()")
+
+// Chocolate:Product(name, price)
+// - _profit = GetpurchasePrice * 0.20
+
+// - GetPrice = () => (GetpurchasePrice + _profit)
+// - PrintDetails = () => output("getPrice()")
+
+
+
