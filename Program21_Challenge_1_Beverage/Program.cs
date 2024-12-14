@@ -43,7 +43,7 @@ class Beverage : Product{
     public int Liters {get; set;}
 
     public string GetDetails(){
-        string details = GetName(this.Liters) + ", "+GetPrice(this.Liters) + ", "+ this.Liters;
+        string details = GetName(this.Liters) + ", " + GetPrice(this.Liters) + ", "+ this.Liters;
         return details;
     }
 }
